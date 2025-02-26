@@ -1,3 +1,10 @@
+/* Rosa Martinez
+1/23/24
+Learning Goal: Students will demonstrate their understanding of Object-Oriented Programming by
+designing a Die class with attributes and methods, creating multiple instances to form a grid, 
+calculating and displaying the total value of the dice, and customizing the presentation of 
+their program through HTML elements.*/
+
 int moneySum;
 int total;
  void setup()
